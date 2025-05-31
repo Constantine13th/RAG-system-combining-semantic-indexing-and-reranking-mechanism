@@ -1,0 +1,6 @@
+{
+  "openai_api_key": " ",
+  "model": "gpt-4",
+  "embedding_model": "all-MiniLM-L6-v2",
+  "top_k": 5
+}
